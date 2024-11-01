@@ -49,7 +49,7 @@ Exemplo:
 ### ✏️ESCOLHA CASO
 A estrutura ESCOLHA CASO permite executar diferentes blocos de código com base no valor de uma variável.
 Exemplo:
-```
+```portugol
 escolha(seila){
   caso 1:
     escreva("nao aceito\n")
@@ -85,7 +85,7 @@ Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e c
 ### ✏️PARA
 A estrutura PARA é utilizada para repetições com um número fixo de iterações.
 Exemplo:
-```
+```portugol
 
  para (contador = 0; contador <= numero; contador++ ){
       se((contador % 2)== 0)
@@ -104,7 +104,7 @@ Exemplo:
 ### ✏️ENQUANTO
 A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verdadeira.
 Exemplo:
-```
+```portugol
 
   enquanto(switch == falso){
     para (contador = 0; contador <= numero; contador++ ){
@@ -133,7 +133,7 @@ Exemplo:
 ### ✏️O que são Vetores?
 Em Portugol, um vetor é uma estrutura que permite armazenar vários valores de um mesmo tipo em uma única variável. Ele é como uma "caixa" dividida em várias posições, e cada posição pode guardar um valor.
 Exemplo de um vetor:
-```
+```portugol
  inteiro vetor[5] = {1, 2, 3, 4, 5}
 ```
 
