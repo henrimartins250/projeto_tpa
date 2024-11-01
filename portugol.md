@@ -29,7 +29,7 @@ Aqui, vamos explorar as principais estruturas de controle utilizadas na linguage
 ### ✏️SE e SENÃO
 A estrutura SE permite a execução de um bloco de código se uma condição for verdadeira, enquanto SENÃO fornece uma alternativa.
 Exemplo:
-```
+```portugol
  se(idade <= 4)
     seila = 1
     senao se(idade > 4 e idade <= 7)
