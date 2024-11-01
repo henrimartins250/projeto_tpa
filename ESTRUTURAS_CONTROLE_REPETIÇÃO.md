@@ -23,16 +23,16 @@ o C#
 
 ## 3. Comparação de Estruturas de Repetição (for e while)
 
-# o Python
+### o Python
 ▪ Estrutura de um for e um while.
 ▪ Exemplo prático para cada.
-# o PHP
+### o PHP
 ▪ Estrutura de for e while.
 ▪ Exemplo prático para cada.
-# o Java
+### o Java
 ▪ Estrutura de for e while.
 ▪ Exemplo prático para cada.
-# o C#
+### o C#
 ▪ Estrutura de for e while.
 ▪ Exemplo prático para cada.
 ## 4. Comparação de Vantagens e Desvantagens
