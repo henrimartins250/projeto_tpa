@@ -85,7 +85,7 @@ Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e c
 ### ✏️PARA
 A estrutura PARA é utilizada para repetições com um número fixo de iterações.
 Exemplo:
-``
+```
 
  para (contador = 0; contador <= numero; contador++ ){
       se((contador % 2)== 0)
@@ -100,11 +100,11 @@ Exemplo:
       senao{
         switch = falso
       }
-``
+```
 ### ✏️ENQUANTO
 A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verdadeira.
 Exemplo:
-``
+```
 
   enquanto(switch == falso){
     para (contador = 0; contador <= numero; contador++ ){
@@ -125,7 +125,7 @@ Exemplo:
       }
     }
     }
-``
+```
 
 
 # 📌Vetores
@@ -133,9 +133,9 @@ Exemplo:
 ### ✏️O que são Vetores?
 Em Portugol, um vetor é uma estrutura que permite armazenar vários valores de um mesmo tipo em uma única variável. Ele é como uma "caixa" dividida em várias posições, e cada posição pode guardar um valor.
 Exemplo de um vetor:
-``
+```
  inteiro vetor[5] = {1, 2, 3, 4, 5}
-``
+```
 
 
 A prática constante com os conceitos de lógica de programação e as estruturas de controle em Portugol é fundamental para o desenvolvimento de suas habilidades. A estrutura modular deste curso facilitará a assimilação do conteúdo e o preparará para desafios mais complexos na área.
