@@ -51,7 +51,48 @@ else:
 ````
 ### o PHP
 ▪ Sintaxe de if/else.
+````php
+if (condição) {
+    // Código a ser executado se a condição for verdadeira
+} else {
+    // Código a ser executado se a condição for falsa
+}
+````
 ▪ Exemplo prático.
+````php
+$x = 10;
+
+if ($x > 5) {
+    echo "x é maior que 5";
+} else {
+    echo "x não é maior que 5";
+}
+
+````
+
+````php
+if (condição1) {
+    // Código para a condição1
+} elseif (condição2) {
+    // Código para a condição2
+} else {
+    // Código se nenhuma das condições for verdadeira
+}
+
+````
+
+````php
+$x = 10;
+
+if ($x > 10) {
+    echo "x é maior que 10";
+} elseif ($x == 10) {
+    echo "x é igual a 10";
+} else {
+    echo "x é menor que 10";
+}
+
+````
 ### o Java
 ▪ Sintaxe de if/else.
 ▪ Exemplo prático.
