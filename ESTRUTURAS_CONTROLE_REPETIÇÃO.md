@@ -14,7 +14,7 @@ linguagens de programação.
 ### o Python
 ▪ Sintaxe básica de um if/else.
 ```python
-if condition:
+if condição:
     # codigo a executar se a codiçao for verdadeira
 else:
     # codigo a executar se a condição for falsa
@@ -29,7 +29,26 @@ if x > 5:
 else:
     print("x não é maior que 5")
 ````
+▪ Sintaxe básica de um elif.
+````python
+if condição1:
+    # codigo para condição 1
+elif condição2:
+    # codigo para a condição 2
+else:
+    # codigo se nenhuma das condições for verdadeira
+````
+▪ Exemplo de uso.
+````python
+x = 10
 
+if x > 10:
+    print("x é maior que 10")
+elif x == 10:
+    print("x é igual a 10")
+else:
+    print("x é menor que 10")
+````
 ### o PHP
 ▪ Sintaxe de if/else.
 ▪ Exemplo prático.
