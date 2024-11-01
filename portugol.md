@@ -7,25 +7,25 @@ Neste módulo, apresentamos os fundamentos da lógica de programação, essencia
 # 💡O que é o Portugol?
 O Portugol é uma linguagem de programação didática criada para facilitar o ensino de programação para falantes de português. Ela utiliza a língua portuguesa como base para seus comandos, tornando o aprendizado mais intuitivo e acessível.
 
-### ✏️Principais características:
+### Principais características:
 
 <strong>Simplicidade:</strong> Sintaxe similar ao português, facilitando a compreensão.
 <strong>Foco na lógica:</strong> Permite concentrar-se nos conceitos básicos da programação.
 <strong>Base para outras linguagens:</strong> Serve como introdução para linguagens mais complexas.
 <strong>Didática:</strong> Utilizada em cursos e escolas para ensinar programação.
 
-### ✏️Para que serve:
+### Para que serve:
 <strong>Ensinar programação:</strong> Introduzir os conceitos de algoritmos e lógica de programação.
 <strong>Criar pequenos programas:</strong> Resolver problemas simples e desenvolver a lógica de programação.
 
-### ✏️Em resumo:
+### Em resumo:
 O Portugol é uma excelente ferramenta para quem está começando a programar. Ao aprender Portugol, você estará dando o primeiro passo para dominar outras linguagens de programação e se tornar um desenvolvedor.
 
-# 📌Estruturas de Controle
+# Estruturas de Controle
 
 Aqui, vamos explorar as principais estruturas de controle utilizadas na linguagem Portugol, fundamentais para a tomada de decisões e repetição de blocos de código.
 
-### ✏️SE e SENÃO
+### SE e SENÃO
 A estrutura SE permite a execução de um bloco de código se uma condição for verdadeira, enquanto SENÃO fornece uma alternativa.
 Exemplo:
 ```portugol
@@ -45,7 +45,7 @@ Exemplo:
     seila = -1
 ```
 
-### ✏️ESCOLHA CASO
+### ESCOLHA CASO
 A estrutura ESCOLHA CASO permite executar diferentes blocos de código com base no valor de uma variável.
 Exemplo:
 ```portugol
@@ -76,12 +76,12 @@ escolha(seila){
 }
 ```
 
-# 📌Estruturas de Repetição
+# Estruturas de Repetição
 Permite que uma sequência de ações ao longo do algoritmo seja executada repetidamente, até que uma determinada condição de interrupção seja satisfeita.
 
-### ✏️Tipos de Estruturas de Repetição
+### Tipos de Estruturas de Repetição
 
-### ✏️PARA
+### PARA
 A estrutura PARA é utilizada para repetições com um número fixo de iterações.
 Exemplo:
 ```portugol
@@ -100,7 +100,7 @@ Exemplo:
         switch = falso
       }
 ```
-### ✏️ENQUANTO
+### ENQUANTO
 A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verdadeira.
 Exemplo:
 ```portugol
@@ -127,9 +127,9 @@ Exemplo:
 ```
 
 
-# 📌Vetores
+# Vetores
 
-### ✏️O que são Vetores?
+### O que são Vetores?
 Em Portugol, um vetor é uma estrutura que permite armazenar vários valores de um mesmo tipo em uma única variável. Ele é como uma "caixa" dividida em várias posições, e cada posição pode guardar um valor.
 Exemplo de um vetor:
 ```portugol
