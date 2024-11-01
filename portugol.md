@@ -1,11 +1,10 @@
 # Técnicas de Programação de Algoritmos - ETEC
 Aprendendo técnicas de programação com algoritmos em portugol, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
 
-## 📌Introdução à Lógica de Programação
+## 💻Introdução à Lógica de Programação
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
-<img src="INTRODUCAO.jpeg">
 
-# 📌O que é o Portugol?
+# 💡O que é o Portugol?
 O Portugol é uma linguagem de programação didática criada para facilitar o ensino de programação para falantes de português. Ela utiliza a língua portuguesa como base para seus comandos, tornando o aprendizado mais intuitivo e acessível.
 
 ### ✏️Principais características:
