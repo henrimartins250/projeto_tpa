@@ -77,7 +77,7 @@ escolha(seila){
 ```
 
 # 📌Estruturas de Repetição
-Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e como utilizá-las. Você entenderá como aplicá-las para resolver problemas práticos.
+Permite que uma sequência de ações ao longo do algoritmo seja executada repetidamente, até que uma determinada condição de interrupção seja satisfeita.
 
 ### ✏️Tipos de Estruturas de Repetição
 
